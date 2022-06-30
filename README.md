@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiriyamBird
 - 👀 I’m interested in being a front-end developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 📫 How to reach me: miriyam_bird@icloud.com
 
 <!---
